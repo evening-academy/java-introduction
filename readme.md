@@ -10,7 +10,7 @@
 ## Урок второй
 
 1. [Видео](https://www.youtube.com/watch?v=LFV3WudnRcs&list=PL-mJM9AN6HZ6WPYRS2geOzXiNUtaOidkN&index=2)
-2. Код к уроку
+2. [Код к уроку](https://github.com/evening-academy/java-introduction/blob/lessons/02-methods/src/Main.java)
 
 ## Урок третий
 
